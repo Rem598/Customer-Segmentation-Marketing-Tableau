@@ -1,6 +1,6 @@
 # 🎯 Customer Segmentation & Targeted Marketing Analysis (Tableau)
 
-## ❓ Problem Statement (Core Goal)
+## ❓ Problem Statement 
 
 The objective was to move beyond generic communication and establish a clear **customer segmentation strategy**. This dashboard addresses the business need to **identify and profile the most valuable segments** (based on spending and loyalty) to effectively allocate marketing resources and launch **personalized retention campaigns**.
 
@@ -45,7 +45,6 @@ The Tableau dashboard utilizes various visualization techniques to explore the r
 
 The dashboard provides an interactive interface for marketing managers to filter and analyze segment performance.
 
-(Replace the link below with the actual URL to your uploaded dashboard image)
 
 ![Customer Segmentation Dashboard in Tableau](https://github.com/Rem598/Customer-Segmentation-Marketing-Tableau/blob/main/Seg%20Dashboard.png)
 

@@ -55,7 +55,7 @@ The dashboard provides an interactive interface for marketing managers to filter
 The segmentation analysis yielded several strategic findings:
 
 * **High-Value Profile:** The **high-spending, long-term members** consistently prefer high-margin categories like **Electronics and Clothing**. These segments should receive exclusive early-access and loyalty rewards.
-* **Opportunity Segment:** **Younger customers** showed lower current purchase frequency but high amounts on their last purchase. This group is **high-potential** and should be targeted with introductory offers to increase visit frequency.
+* **Opportunity Segment:** **Male customers** showed higher purchase frequency. This group is **high-potential** and should be targeted with introductory offers to increase visit frequency.
 * **Behavioral Clusters:** Distinct clusters were visually confirmed, indicating that income level strongly dictates both **spending score** and **preferred shopping categories**. This validates a segment-based approach over a mass-market approach.
 
 ---

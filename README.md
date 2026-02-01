@@ -5,7 +5,7 @@
 The objective was to move beyond generic communication and establish a clear **customer segmentation strategy**. This dashboard addresses the business need to **identify and profile the most valuable segments** (based on spending and loyalty) to effectively allocate marketing resources and launch **personalized retention campaigns**.
 
 **Tools Used:** 
-**Tableau** (Visualization, Calculated Fields, Dashboarding)
+**Tableau** (Visualization, Calculated Fields, Dashboarding),
 **Excel** (Data Cleaning & Preparation)
 
 ---
